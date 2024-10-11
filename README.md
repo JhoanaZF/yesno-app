@@ -1,16 +1,7 @@
 # yes_no_app
 
-A new Flutter project.
+**Descripción:**
 
-## Getting Started
+Aplicación móvil desarrollada con Flutter que simula la experiencia de un chat, utilizando la API de YesNo para interactuar con el usuario a través de respuestas de sí o no. Esta app utiliza diversos widgets de Flutter para ofrecer una interfaz intuitiva y fácil de usar.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+API: https://yesno.wtf/api
